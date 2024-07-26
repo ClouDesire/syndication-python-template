@@ -1,0 +1,11 @@
+version: 2
+updates:
+  - package-ecosystem: pip
+    directory: "/"
+    commit-message:
+      prefix: "chore(pip)"
+    schedule:
+      interval: weekly
+      day: sunday
+    assignees:
+      - malteo
