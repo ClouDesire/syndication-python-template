@@ -3,7 +3,7 @@ updates:
   - package-ecosystem: pip
     directory: "/"
     commit-message:
-      prefix: "chore(pip)"
+      prefix: "deps(pip)"
     schedule:
       interval: weekly
       day: sunday
