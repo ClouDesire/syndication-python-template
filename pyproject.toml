@@ -5,7 +5,7 @@ description = "Example Python/FastAPI application that handles the Cloudesire sy
 readme = "README.md"
 requires-python = ">=3.12"
 dependencies = [
-    "fastapi-slim==0.120.3",
+    "fastapi-slim==0.121.2",
     "httpx==0.28.1",
     "pydantic-settings==2.11.0",
     "python-dotenv==1.2.1",
